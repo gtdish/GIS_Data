@@ -1,4 +1,5 @@
 LOCATIONID,LOCATIONNAME,LATITUDE,LONGITUDE,Value,LABEL
+Acworth,Acworth,34.0659,-84.6769,0.3,Acworth
 Alpharetta,Alpharetta,34.0754,-84.2941,0.5,Alpharetta
 Athens,Athens,33.9519,-83.3576,0.3,Athens
 Atlanta,Atlanta,33.749,-84.388,0.3,Atlanta
@@ -9,8 +10,10 @@ Blairsville,Blairsville,34.8759,-83.9853,0.1,Blairsville
 Blue Ridge,Blue Ridge,34.8634,-84.3241,0.0,Blue Ridge
 Buford,Buford,34.1207,-84.0044,0.8,Buford
 Bremen,Bremen,33.7212,-85.145,0.0,Bremen
+Calhoun,Calhoun,34.5026,-84.9511,0.0,Calhoun
 Canton,Canton,34.2368,-84.4908,0.4,Canton
 Carrollton,Carrollton,33.5801,-85.0766,0.0,Carrollton
+Cartersville,Cartersville,34.1651,-84.7999,0.1,Cartersville
 Chamblee,Chamblee,33.8929,-84.2988,0.4,Chamblee
 Clayton,Clayton,34.882,-83.4018,1.4,Clayton
 Cleveland,Cleveland,34.597,-83.7632,1.6,Cleveland
@@ -82,3 +85,4 @@ Whitesburg,Whitesburg,33.494,-84.9138,0.0,Whitesburg
 Watkinsville,Watkinsville,33.8623,-83.4099,0.2,Watkinsville
 West Point,West Point,32.8776,-85.1846,0.0,West Point
 Winder,Winder,33.9926,-83.7204,0.8,Winder
+Woodstock,Woodstock,34.1015,-84.5194,0.4,Woodstock
