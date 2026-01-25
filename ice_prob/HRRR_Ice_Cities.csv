@@ -1,89 +1,89 @@
 LOCATIONID,LOCATIONNAME,LATITUDE,LONGITUDE,Value,LABEL
-Acworth,Acworth,34.0659,-84.6769,0.3,Acworth
+Acworth,Acworth,34.0659,-84.6769,0.1,Acworth
 Adairsville,Adairsville,34.3687,-84.9341,0.0,Adairsville
-Alpharetta,Alpharetta,34.0754,-84.2941,0.6,Alpharetta
-Athens,Athens,33.9519,-83.3576,0.5,Athens
-Atlanta,Atlanta,33.749,-84.388,0.4,Atlanta
-Austell,Austell,33.8126,-84.6344,0.4,Austell
-Ball Ground,Ball Ground,34.3387,-84.3755,1.2,Ball Ground
+Alpharetta,Alpharetta,34.0754,-84.2941,0.2,Alpharetta
+Athens,Athens,33.9519,-83.3576,0.7,Athens
+Atlanta,Atlanta,33.749,-84.388,0.1,Atlanta
+Austell,Austell,33.8126,-84.6344,0.1,Austell
+Ball Ground,Ball Ground,34.3387,-84.3755,0.6,Ball Ground
 Barnesville,Barnesville,33.0543,-84.1513,0.0,Barnesville
-Blairsville,Blairsville,34.8759,-83.9853,0.1,Blairsville
+Blairsville,Blairsville,34.8759,-83.9853,0.0,Blairsville
 Blue Ridge,Blue Ridge,34.8634,-84.3241,0.0,Blue Ridge
-Buford,Buford,34.1207,-84.0044,1.1,Buford
+Buford,Buford,34.1207,-84.0044,0.6,Buford
 Bremen,Bremen,33.7212,-85.145,0.0,Bremen
 Calhoun,Calhoun,34.5026,-84.9511,0.0,Calhoun
-Canton,Canton,34.2368,-84.4908,0.5,Canton
+Canton,Canton,34.2368,-84.4908,0.2,Canton
 Carrollton,Carrollton,33.5801,-85.0766,0.0,Carrollton
-Cartersville,Cartersville,34.1651,-84.7999,0.2,Cartersville
-Chamblee,Chamblee,33.8929,-84.2988,0.5,Chamblee
-Clayton,Clayton,34.882,-83.4018,1.1,Clayton
-Cleveland,Cleveland,34.597,-83.7632,1.1,Cleveland
-Conyers,Conyers,33.6676,-84.0177,0.2,Conyers
-Covington,Covington,33.5968,-83.8602,0.2,Covington
-Cumming,Cumming,34.2073,-84.1402,1.2,Cumming
-Dahlonega,Dahlonega,34.5254,-83.986,1.2,Dahlonega
-Dallas,Dallas,33.9237,-84.8408,0.4,Dallas
-Dawsonville,Dawsonville,34.4212,-84.1199,1.2,Dawsonville
-Douglasville,Douglasville,33.7515,-84.7477,0.4,Douglasville
-Duluth,Duluth,34.0029,-84.1446,0.6,Duluth
+Cartersville,Cartersville,34.1651,-84.7999,0.0,Cartersville
+Chamblee,Chamblee,33.8929,-84.2988,0.1,Chamblee
+Clayton,Clayton,34.882,-83.4018,0.8,Clayton
+Cleveland,Cleveland,34.597,-83.7632,0.7,Cleveland
+Conyers,Conyers,33.6676,-84.0177,0.1,Conyers
+Covington,Covington,33.5968,-83.8602,0.1,Covington
+Cumming,Cumming,34.2073,-84.1402,0.8,Cumming
+Dahlonega,Dahlonega,34.5254,-83.986,0.7,Dahlonega
+Dallas,Dallas,33.9237,-84.8408,0.1,Dallas
+Dawsonville,Dawsonville,34.4212,-84.1199,0.7,Dawsonville
+Douglasville,Douglasville,33.7515,-84.7477,0.1,Douglasville
+Duluth,Duluth,34.0029,-84.1446,0.2,Duluth
 Eatonton,Eatonton,33.3268,-83.3885,0.0,Eatonton
 Ellijay,Ellijay,34.6948,-84.4821,0.0,Ellijay
-Fairburn,Fairburn,33.5673,-84.581,0.1,Fairburn
-Fairplay,Fairplay,33.6234,-84.8599,0.0,Fairplay
+Fairburn,Fairburn,33.5673,-84.581,0.0,Fairburn
+Fairplay,Fairplay,33.6234,-84.8599,0.1,Fairplay
 Fayetteville,Fayetteville,33.4487,-84.4549,0.0,Fayetteville
-Flowery Branch,Flowery Branch,34.1851,-83.9255,1.3,Flowery Branch
-Gainesville,Gainesville,34.2979,-83.8241,1.2,Gainesville
+Flowery Branch,Flowery Branch,34.1851,-83.9255,0.6,Flowery Branch
+Gainesville,Gainesville,34.2979,-83.8241,0.7,Gainesville
 Griffin,Griffin,33.2468,-84.2641,0.0,Griffin
-Greensboro,Greensboro,33.5757,-83.1824,0.0,Greensboro
-Helen,Helen,34.7029,-83.7307,1.2,Helen
-Hiram,Hiram,33.8757,-84.7624,0.4,Hiram
-Homer,Homer,34.3351,-83.4966,1.1,Homer
+Greensboro,Greensboro,33.5757,-83.1824,0.1,Greensboro
+Helen,Helen,34.7029,-83.7307,0.8,Helen
+Hiram,Hiram,33.8757,-84.7624,0.1,Hiram
+Homer,Homer,34.3351,-83.4966,0.7,Homer
 Jasper,Jasper,34.4673,-84.4291,0.9,Jasper
-Johns Creek,Johns Creek,34.0289,-84.1986,0.6,Johns Creek
+Johns Creek,Johns Creek,34.0289,-84.1986,0.2,Johns Creek
 Jonesboro,Jonesboro,33.5215,-84.3538,0.1,Jonesboro
-Kennesaw,Kennesaw,34.0234,-84.6155,0.4,Kennesaw
+Kennesaw,Kennesaw,34.0234,-84.6155,0.1,Kennesaw
 LaGrange,LaGrange,33.0362,-85.0322,0.0,LaGrange
-Lawrenceville,Lawrenceville,33.9562,-83.9879,0.7,Lawrenceville
-Lithonia,Lithonia,33.7123,-84.1052,0.2,Lithonia
+Lawrenceville,Lawrenceville,33.9562,-83.9879,0.4,Lawrenceville
+Lithonia,Lithonia,33.7123,-84.1052,0.1,Lithonia
 Locust Grove,Locust Grove,33.3459,-84.1094,0.0,Locust Grove
 Loganville,Loganville,33.8387,-83.9007,0.3,Loganville
-Mableton,Mableton,33.8187,-84.5824,0.4,Mableton
+Mableton,Mableton,33.8187,-84.5824,0.1,Mableton
 Madison,Madison,33.5957,-83.4679,0.1,Madison
 Manchester,Manchester,32.8599,-84.6194,0.0,Manchester
-Marietta,Marietta,33.9526,-84.5499,0.4,Marietta
+Marietta,Marietta,33.9526,-84.5499,0.1,Marietta
 McDonough,McDonough,33.4473,-84.1469,0.1,McDonough
 Milledgeville,Milledgeville,33.0801,-83.2321,0.0,Milledgeville
-Milton,Milton,34.1322,-84.3007,0.6,Milton
+Milton,Milton,34.1322,-84.3007,0.2,Milton
 Mineral Bluff,Mineral Bluff,34.9854,-84.2777,0.0,Mineral Bluff
 Monroe,Monroe,33.794,-83.7135,0.3,Monroe
 Monticello,Monticello,33.304,-83.6835,0.0,Monticello
-Morrow,Morrow,33.5832,-84.3394,0.2,Morrow
+Morrow,Morrow,33.5832,-84.3394,0.1,Morrow
 Newnan,Newnan,33.3807,-84.7997,0.0,Newnan
-Norcross,Norcross,33.9412,-84.2135,0.5,Norcross
+Norcross,Norcross,33.9412,-84.2135,0.1,Norcross
 Peachtree City,Peachtree City,33.3968,-84.5958,0.0,Peachtree City
-Powder Springs,Powder Springs,33.8596,-84.6838,0.4,Powder Springs
+Powder Springs,Powder Springs,33.8596,-84.6838,0.1,Powder Springs
 Rockmart,Rockmart,34.0026,-85.0416,0.0,Rockmart
 Rome,Rome,34.2562,-85.1687,0.0,Rome
-Roswell,Roswell,34.0232,-84.3616,0.5,Roswell
-Sandy Springs,Sandy Springs,33.9304,-84.3733,0.5,Sandy Springs
+Roswell,Roswell,34.0232,-84.3616,0.1,Roswell
+Sandy Springs,Sandy Springs,33.9304,-84.3733,0.1,Sandy Springs
 Senoia,Senoia,33.3029,-84.5538,0.0,Senoia
-Smyrna,Smyrna,33.8839,-84.5144,0.5,Smyrna
-Snellville,Snellville,33.8573,-84.0199,0.4,Snellville
-Social Circle,Social Circle,33.6568,-83.7182,0.2,Social Circle
-South Fulton,South Fulton,33.6015,-84.5505,0.2,South Fulton
+Smyrna,Smyrna,33.8839,-84.5144,0.1,Smyrna
+Snellville,Snellville,33.8573,-84.0199,0.3,Snellville
+Social Circle,Social Circle,33.6568,-83.7182,0.1,Social Circle
+South Fulton,South Fulton,33.6015,-84.5505,0.0,South Fulton
 Stockbridge,Stockbridge,33.5443,-84.2338,0.1,Stockbridge
-Stone Mountain,Stone Mountain,33.8082,-84.1702,0.4,Stone Mountain
+Stone Mountain,Stone Mountain,33.8082,-84.1702,0.1,Stone Mountain
 Summerville,Summerville,34.4801,-85.3472,0.0,Summerville
-Suwanee,Suwanee,34.0515,-84.0713,0.7,Suwanee
+Suwanee,Suwanee,34.0515,-84.0713,0.3,Suwanee
 Tallapoosa,Tallapoosa,33.7443,-85.288,0.0,Tallapoosa
 Thomaston,Thomaston,32.8887,-84.3266,0.0,Thomaston
-Toccoa,Toccoa,34.5773,-83.3324,1.2,Toccoa
-Tucker,Tucker,33.8546,-84.2171,0.5,Tucker
+Toccoa,Toccoa,34.5773,-83.3324,0.6,Toccoa
+Tucker,Tucker,33.8546,-84.2171,0.1,Tucker
 Tyrone,Tyrone,33.4718,-84.5977,0.0,Tyrone
-Union City,Union City,33.5873,-84.5424,0.1,Union City
+Union City,Union City,33.5873,-84.5424,0.0,Union City
 Villa Rica,Villa Rica,33.7321,-84.9191,0.1,Villa Rica
 Whitesburg,Whitesburg,33.494,-84.9138,0.0,Whitesburg
-Watkinsville,Watkinsville,33.8623,-83.4099,0.3,Watkinsville
+Watkinsville,Watkinsville,33.8623,-83.4099,0.6,Watkinsville
 West Point,West Point,32.8776,-85.1846,0.0,West Point
 Winder,Winder,33.9926,-83.7204,0.7,Winder
-Woodstock,Woodstock,34.1015,-84.5194,0.5,Woodstock
+Woodstock,Woodstock,34.1015,-84.5194,0.1,Woodstock
