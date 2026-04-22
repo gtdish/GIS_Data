@@ -21,3 +21,4 @@ UTCDateTime,LocalDateTime,ReportingArea,DominantAQI,DominantParameter,PM25_AQI,O
 ,,Atlanta,157.0,PM2.5,157.0,28.0,130890002,South DeKalb,62.5,UG/M3,52.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
 ,,Atlanta,128.0,PM2.5,128.0,35.0,130890002,South DeKalb,28.3,UG/M3,65.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
 ,,Atlanta,96.0,PM2.5,96.0,44.0,130890002,South DeKalb,20.4,UG/M3,64.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
+,,Atlanta,81.0,PM2.5,81.0,64.0,130890002,South DeKalb,17.1,UG/M3,66.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
