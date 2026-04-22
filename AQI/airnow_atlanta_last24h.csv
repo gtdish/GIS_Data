@@ -1,24 +1,23 @@
 UTCDateTime,LocalDateTime,ReportingArea,DominantAQI,DominantParameter,PM25_AQI,OZONE_AQI,AQSID,SiteName,PM25,PM25_Unit,OZONE,OZONE_Unit,DataSource,Latitude,Longitude,ReportingArea_PipeDelimited
-,,Atlanta,81.0,PM2.5,81.0,64.0,130890002,South DeKalb,17.1,UG/M3,66.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
-,,Atlanta,96.0,PM2.5,96.0,44.0,130890002,South DeKalb,20.4,UG/M3,64.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
-,,Atlanta,128.0,PM2.5,128.0,35.0,130890002,South DeKalb,28.3,UG/M3,65.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
-,,Atlanta,157.0,PM2.5,157.0,28.0,130890002,South DeKalb,62.5,UG/M3,52.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
-,,Atlanta,158.0,PM2.5,158.0,18.0,130890002,South DeKalb,104.7,UG/M3,29.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
-,,Atlanta,99.0,PM2.5,99.0,,131210056,NR-Georgia Tech,46.6,UG/M3,,,Georgia Department of Natural Resources,33.778315,-84.391418,Atlanta
-,,Atlanta,77.0,PM2.5,77.0,,131210056,NR-Georgia Tech,34.4,UG/M3,,,Georgia Department of Natural Resources,33.778315,-84.391418,Atlanta
-,,Atlanta,57.0,PM2.5,57.0,13.0,131350002,Gwinnett Tech,12.3,UG/M3,4.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
-,,Atlanta,57.0,PM2.5,57.0,13.0,131350002,Gwinnett Tech,12.8,UG/M3,3.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
-,,Atlanta,56.0,PM2.5,56.0,15.0,131350002,Gwinnett Tech,12.6,UG/M3,11.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
-,,Atlanta,56.0,PM2.5,56.0,15.0,131350002,Gwinnett Tech,12.3,UG/M3,15.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
-,,Atlanta,55.0,PM2.5,55.0,18.0,131210055,United Ave,11.2,UG/M3,15.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
-,,Atlanta,56.0,PM2.5,56.0,23.0,131210055,United Ave,12.5,UG/M3,19.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
-,,Atlanta,55.0,PM2.5,55.0,24.0,131210055,United Ave,11.0,UG/M3,22.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
-,,Atlanta,55.0,PM2.5,55.0,31.0,131210055,United Ave,11.6,UG/M3,28.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
-,,Atlanta,54.0,PM2.5,54.0,36.0,131210055,United Ave,11.2,UG/M3,32.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
-,,Atlanta,54.0,PM2.5,54.0,41.0,131350002,Gwinnett Tech,11.2,UG/M3,40.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
-,,Atlanta,61.0,OZONE,,61.0,132319991,Georgia Station,,,58.0,PPB,EPA Office of Atmospheric Protection,33.1787,-84.4052,Atlanta
-,,Atlanta,71.0,OZONE,,71.0,132319991,Georgia Station,,,60.0,PPB,EPA Office of Atmospheric Protection,33.1787,-84.4052,Atlanta
-,,Atlanta,74.0,OZONE,48.0,74.0,131210055,United Ave,10.1,UG/M3,65.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
-,,Atlanta,93.0,OZONE,39.0,93.0,131210055,United Ave,8.7,UG/M3,73.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
-,,Atlanta,97.0,OZONE,,97.0,130970004,Douglasville,,,78.0,PPB,Georgia Department of Natural Resources,33.7433,-84.7789,Atlanta
-,,Atlanta,93.0,OZONE,,93.0,130970004,Douglasville,,,76.0,PPB,Georgia Department of Natural Resources,33.7433,-84.7789,Atlanta
+,,Atlanta,81,PM2.5,81,64,130890002,South DeKalb,17.1,UG/M3,66.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
+,,Atlanta,96,PM2.5,96,44,130890002,South DeKalb,20.4,UG/M3,64.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
+,,Atlanta,128,PM2.5,128,35,130890002,South DeKalb,28.3,UG/M3,65.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
+,,Atlanta,157,PM2.5,157,28,130890002,South DeKalb,62.5,UG/M3,52.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
+,,Atlanta,158,PM2.5,158,18,130890002,South DeKalb,104.7,UG/M3,29.0,PPB,Georgia Department of Natural Resources,33.6906,-84.2731,Atlanta
+,,Atlanta,99,PM2.5,99,,131210056,NR-Georgia Tech,46.6,UG/M3,,,Georgia Department of Natural Resources,33.778315,-84.391418,Atlanta
+,,Atlanta,77,PM2.5,77,,131210056,NR-Georgia Tech,34.4,UG/M3,,,Georgia Department of Natural Resources,33.778315,-84.391418,Atlanta
+,,Atlanta,57,PM2.5,57,13,131350002,Gwinnett Tech,12.3,UG/M3,4.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
+,,Atlanta,57,PM2.5,57,13,131350002,Gwinnett Tech,12.8,UG/M3,3.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
+,,Atlanta,56,PM2.5,56,15,131350002,Gwinnett Tech,12.6,UG/M3,11.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
+,,Atlanta,56,PM2.5,56,15,131350002,Gwinnett Tech,12.3,UG/M3,15.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
+,,Atlanta,55,PM2.5,55,18,131210055,United Ave,11.2,UG/M3,15.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
+,,Atlanta,56,PM2.5,56,23,131210055,United Ave,12.5,UG/M3,19.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
+,,Atlanta,55,PM2.5,55,24,131210055,United Ave,11.0,UG/M3,22.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
+,,Atlanta,55,PM2.5,55,31,131210055,United Ave,11.6,UG/M3,28.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
+,,Atlanta,54,PM2.5,54,36,131210055,United Ave,11.2,UG/M3,32.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
+,,Atlanta,54,PM2.5,54,41,131350002,Gwinnett Tech,11.2,UG/M3,40.0,PPB,Georgia Department of Natural Resources,33.9636,-84.0664,Atlanta
+,,Atlanta,61,OZONE,,61,132319991,Georgia Station,,,58.0,PPB,EPA Office of Atmospheric Protection,33.1787,-84.4052,Atlanta
+,,Atlanta,71,OZONE,,71,132319991,Georgia Station,,,60.0,PPB,EPA Office of Atmospheric Protection,33.1787,-84.4052,Atlanta
+,,Atlanta,74,OZONE,48,74,131210055,United Ave,10.1,UG/M3,65.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
+,,Atlanta,93,OZONE,39,93,131210055,United Ave,8.7,UG/M3,73.0,PPB,Georgia Department of Natural Resources,33.7206,-84.3578,Atlanta
+,,Atlanta,97,OZONE,,97,130970004,Douglasville,,,78.0,PPB,Georgia Department of Natural Resources,33.7433,-84.7789,Atlanta
